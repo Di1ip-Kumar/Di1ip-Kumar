@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Dilip
-
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 <!--
 **Di1ip-Kumar/Di1ip-Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
