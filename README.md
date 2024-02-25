@@ -8,7 +8,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dilipkumar8055)
+- :mailbox:How to reach me: [![Linkedin Badge](<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>)](https://www.linkedin.com/in/dilipkumar8055)
 
 
 <!--
